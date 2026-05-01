@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260501121127GJUP30</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501121127N449RC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Un cuento, mil manos: escritura cooperativa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marta Marín Corbera</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Actividad de fomento de la lectura y escritura de cuentos elaborados por el alumnado, acercándolos al uso de la Biblioteca de Aula y de Centro. Este proyecto se destina al primer ciclo de Educación Primaria, concretamente a una clase de 1º con 15 estudiantes en un CEIP de un pueblo de montaña en la provincia de Málaga. La materia implicada es Lengua Castellana y Literatura, aunque pretende fomentar competencias como la de Comunicación Lingüística (CCL),  la Matemática y en Ciencia, Tecnología e Ingeniería (STEM) y Personal, Social y de Aprender a Aprender (CPSAA).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777628970063</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-momnz1mr-z4n73csfx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momnz1mr-z4n73csfx</odePageId>
+      <odeBlockId>block-1777625128990-dvday58tj</odeBlockId>
+      <blockName>Bienvenida</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momnz1mr-z4n73csfx</odePageId>
+          <odeBlockId>block-1777625128990-dvday58tj</odeBlockId>
+          <odeIdeviceId>idevice-1777625128987-z5whgqo7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>15</dd></div></dl><p>Buenos días,</p>
+<p>os doy la bienvenida al proyecto <strong><em>Un cuento, mil manos: escritura cooperativa</em></strong>, donde realizaremos un cuento compartido entre toda la clase, aplicando lo que hemos aprendido durante las clases. De esta manera, mejoraremos nuestra habilidad de lectura y escritura y nos acercaremos al uso de la Biblioteca de Aula y la Biblioteca del Centro. </p>
+<p>Espero que disfrutéis de este maravilloso viaje.</p>
+<p>Un saludo,</p>
+<p>la Seño Marta.</p>
+<figure class="exe-figure position-center" style="width: 1055px;">
+<div class="figcaption header"><strong>Figura 1. Ilustración para el proyecto "Un cuento, mil manos: escritura cooperativa".</strong></div>
+<img src="{{context_path}}/content/resources/Gemini_Generated_Image_6qmbf56qmbf56qmb.png" title="Proyecto" width="1055" height="575" alt="Imagen del proyecto" />
+<figcaption class="figcaption"><a href="https://gemini.google.com/" class="author" target="_blank" rel="noopener">Nota. Google Gemini</a>. <span class="title"><em>[Modelo de generación de imágenes por IA].</em></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777625128987-z5whgqo7j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"15","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>15</dd></div></dl><p>Buenos días,</p>\n<p>os doy la bienvenida al proyecto <strong><em>Un cuento, mil manos: escritura cooperativa</em></strong>, donde realizaremos un cuento compartido entre toda la clase, aplicando lo que hemos aprendido durante las clases. De esta manera, mejoraremos nuestra habilidad de lectura y escritura y nos acercaremos al uso de la Biblioteca de Aula y la Biblioteca del Centro. </p>\n<p>Espero que disfrutéis de este maravilloso viaje.</p>\n<p>Un saludo,</p>\n<p>la Seño Marta.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1055px;\">\n<div class=\"figcaption header\"><strong>Figura 1. Ilustración para el proyecto \"Un cuento, mil manos: escritura cooperativa\".</strong></div>\n<img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_6qmbf56qmbf56qmb.png\" title=\"Proyecto\" width=\"1055\" height=\"575\" alt=\"Imagen del proyecto\" />\n<figcaption class=\"figcaption\"><a href=\"https://gemini.google.com/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Nota. Google Gemini</a>. <span class=\"title\"><em>[Modelo de generación de imágenes por IA].</em></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777628568394-1peo4lp9q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777628568394-1peo4lp9q</odePageId>
+      <odeBlockId>block-1777629438326-jhngd4w3k</odeBlockId>
+      <blockName>Tabla resumen de la Guía Didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777628568394-1peo4lp9q</odePageId>
+          <odeBlockId>block-1777629438326-jhngd4w3k</odeBlockId>
+          <odeIdeviceId>idevice-1777629438325-aj9sxlwgz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1HBZEWuTgqLfTvuPmc4i8bbMGqRPLtmewg5atZIfj834/edit?tab=t.0#heading=h.v3kpl8zcktok" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777625715024-fw8mdnsw7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777625715024-fw8mdnsw7</odePageId>
+      <odeBlockId>block-1777625726965-g11fwxmgj</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777625715024-fw8mdnsw7</odePageId>
+          <odeBlockId>block-1777625726965-g11fwxmgj</odeBlockId>
+          <odeIdeviceId>idevice-1777625726963-tqv5xdid4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título</strong>: Un cuento, mil manos: escritura cooperativa</p>
+<p><br /><strong>Centro de interés o temática</strong>: Animación a la lectura y uso de la Biblioteca Escolar.</p>
+<p><br /><strong>Nivel al que va dirigido</strong>: Puede aplicarse a cualquier nivel de Educación Primaria, aunque, en este caso, se realizará en el primer ciclo (1º de EP).</p>
+<p><br /><strong>Secuenciación y temporalización:</strong> La actividad tiene una duración de un trimestre, con un total de 6 sesiones (dos al mes). Esta se llevará a cabo en el tercer trimestre.</p>
+<p><br /><strong>Materia implicada</strong>: Lengua Castellana y Literatura.</p>
+<p><br /><strong>Idioma:</strong> Castellano.</p>
+<p><br /><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong>: A través de este REA se pretende fomentar la lectura, y escritura de cuentos en nuestro alumnado, así como acercarlos a espacios como la Biblioteca del Aula y del Centro. A través de la historia de ‘El cuento vacío’ (disponible en YouTube), los/as discentes tendrán que inventar un pequeño cuento con su portada, de forma que entre toda la clase se creará un libro con muchos pequeños cuentos en su interior. Este se colocará en la Biblioteca del Centro para que todos y todas puedan leerlo. También se podría contemplar la digitalización del libro con la ayuda de alumnado de niveles superiores, como sería empleando el programa Bookcreator.</p>
+<p>Así mismo, se pretende acercar la biblioteca a nuestros pequeños presentándola como un lugar privilegiado para aprender a leer, iniciándose en el préstamo de libros y normas dentro de ella. Para ello, introduciremos la historia de León de biblioteca, haremos un dibujo de distintas escenas del cuento y crearemos la biblioteca de aula con cuentos que ellos mismos traigan de casa.</p>
+<p>A través del REA introduciré lecturas en voz alta y baja, ejercicios de comprensión lectora (verdadero y falso con retroalimentación), así como actividades para aumentar su vocabulario. Sin dejar atrás la selección de cuentos para llevar a cabo  un análisis mediante el uso dinámico de la biblioteca de aula y de centro como un lugar de placer y disfrute de la lectura, así como centro de recursos para los aprendizajes y lugar de consulta, reflexión y búsqueda de información.</p>
+<p><br /><strong>Justificación de la elección (sobre la rutina de pensamiento)</strong>: No hay mejor forma que introducir la lectura a través de las TIC (en este caso un REA) haciendo que nuestro alumnado se divierta jugando, pues este REA se presentará como si de misiones se tratase.</p>
+<p>Creo que los docentes que tenemos conocimientos en Competencia Digital debemos usarlos mediante talleres y actividades, en este caso, creando Recursos Educativos Abiertos para trabajar la comprensión lectora, desarrollando la comunicación oral y escrita, aumentando su léxico y su capacidad de expresión en su vida y entorno circundante, estimulando el placer de la lectura y la mejora de la educación literaria, ya que es de importancia capital en los procesos comunicativos y el uso del lenguaje en la etapa de primaria.</p>
+<p>Además, la biblioteca escolar es el instrumento fundamental para promover el aprendizaje autónomo a través de los textos literarios, siendo una forma de recreación y aprovechamiento lúdico del tiempo de ocio,</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777625726963-tqv5xdid4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título</strong>: Un cuento, mil manos: escritura cooperativa</p>\n<p><br /><strong>Centro de interés o temática</strong>: Animación a la lectura y uso de la Biblioteca Escolar.</p>\n<p><br /><strong>Nivel al que va dirigido</strong>: Puede aplicarse a cualquier nivel de Educación Primaria, aunque, en este caso, se realizará en el primer ciclo (1º de EP).</p>\n<p><br /><strong>Secuenciación y temporalización:</strong> La actividad tiene una duración de un trimestre, con un total de 6 sesiones (dos al mes). Esta se llevará a cabo en el tercer trimestre.</p>\n<p><br /><strong>Materia implicada</strong>: Lengua Castellana y Literatura.</p>\n<p><br /><strong>Idioma:</strong> Castellano.</p>\n<p><br /><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong>: A través de este REA se pretende fomentar la lectura, y escritura de cuentos en nuestro alumnado, así como acercarlos a espacios como la Biblioteca del Aula y del Centro. A través de la historia de ‘El cuento vacío’ (disponible en YouTube), los/as discentes tendrán que inventar un pequeño cuento con su portada, de forma que entre toda la clase se creará un libro con muchos pequeños cuentos en su interior. Este se colocará en la Biblioteca del Centro para que todos y todas puedan leerlo. También se podría contemplar la digitalización del libro con la ayuda de alumnado de niveles superiores, como sería empleando el programa Bookcreator.</p>\n<p>Así mismo, se pretende acercar la biblioteca a nuestros pequeños presentándola como un lugar privilegiado para aprender a leer, iniciándose en el préstamo de libros y normas dentro de ella. Para ello, introduciremos la historia de León de biblioteca, haremos un dibujo de distintas escenas del cuento y crearemos la biblioteca de aula con cuentos que ellos mismos traigan de casa.</p>\n<p>A través del REA introduciré lecturas en voz alta y baja, ejercicios de comprensión lectora (verdadero y falso con retroalimentación), así como actividades para aumentar su vocabulario. Sin dejar atrás la selección de cuentos para llevar a cabo  un análisis mediante el uso dinámico de la biblioteca de aula y de centro como un lugar de placer y disfrute de la lectura, así como centro de recursos para los aprendizajes y lugar de consulta, reflexión y búsqueda de información.</p>\n<p><br /><strong>Justificación de la elección (sobre la rutina de pensamiento)</strong>: No hay mejor forma que introducir la lectura a través de las TIC (en este caso un REA) haciendo que nuestro alumnado se divierta jugando, pues este REA se presentará como si de misiones se tratase.</p>\n<p>Creo que los docentes que tenemos conocimientos en Competencia Digital debemos usarlos mediante talleres y actividades, en este caso, creando Recursos Educativos Abiertos para trabajar la comprensión lectora, desarrollando la comunicación oral y escrita, aumentando su léxico y su capacidad de expresión en su vida y entorno circundante, estimulando el placer de la lectura y la mejora de la educación literaria, ya que es de importancia capital en los procesos comunicativos y el uso del lenguaje en la etapa de primaria.</p>\n<p>Además, la biblioteca escolar es el instrumento fundamental para promover el aprendizaje autónomo a través de los textos literarios, siendo una forma de recreación y aprovechamiento lúdico del tiempo de ocio,</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777625867609-zbye0fskm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.1. Protección de datos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777625867609-zbye0fskm</odePageId>
+      <odeBlockId>block-1777625870609-7yzbderbq</odeBlockId>
+      <blockName>1.1. Protección de datos personales y garantías de derechos digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777625867609-zbye0fskm</odePageId>
+          <odeBlockId>block-1777625870609-7yzbderbq</odeBlockId>
+          <odeIdeviceId>idevice-1777625870608-iefyzmfu0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para realizar un buen trabajo digital, debemos tener en cuenta unos pasos a seguir para que nuestros datos personales estén a salvo y, sobre todo, se garanticen nuestros derechos digitales.</p>
+<p>Observad con atención el siguiente documento que nos guía en este proceso.</p>
+<figure class="exe-figure position-center" style="width: 1112px;">
+<div class="figcaption header"><strong>Figura 2. Conecta los 5 sentidos.</strong></div>
+<img src="{{context_path}}/content/resources/Conecta los 5 sentidos.png" title="Conecta los 5 sentidos digitales" width="1112" height="1568" alt="Aquí tenéis la imagen que resume los pasos a seguir para navegar por internet." />
+<figcaption class="figcaption"><span class="author">Nota. Elaboración propia</span>.</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777625870608-iefyzmfu0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para realizar un buen trabajo digital, debemos tener en cuenta unos pasos a seguir para que nuestros datos personales estén a salvo y, sobre todo, se garanticen nuestros derechos digitales.</p>\n<p>Observad con atención el siguiente documento que nos guía en este proceso.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1112px;\">\n<div class=\"figcaption header\"><strong>Figura 2. Conecta los 5 sentidos.</strong></div>\n<img src=\"{{context_path}}/content/resources/Conecta los 5 sentidos.png\" title=\"Conecta los 5 sentidos digitales\" width=\"1112\" height=\"1568\" alt=\"Aquí tenéis la imagen que resume los pasos a seguir para navegar por internet.\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Nota. Elaboración propia</span>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777626195851-f3fpw5mpv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Descripción del producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777626195851-f3fpw5mpv</odePageId>
+      <odeBlockId>block-1777626198491-dciagdlq4</odeBlockId>
+      <blockName>2. Descripción del producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777626195851-f3fpw5mpv</odePageId>
+          <odeBlockId>block-1777626198491-dciagdlq4</odeBlockId>
+          <odeIdeviceId>idevice-1777626198489-z7xanti8o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final consistirá en un libro digital sencillo, creado por todo el grupo. Para ello, utilizaremos la aplicación <strong><em>Bookcreator </em></strong>y <strong><em>Storybird</em></strong>, para lo que nos ayudarán nuestros compañeros y compañeras de 5º y 6º. Este cuento incluirá un <em>audiolibro </em>e <em>imágenes </em>que crearemos específicamente.</p>
+<p>Las razones que nos llevan a utilizar dichas herramientas son:</p>
+<ol>
+<li>Es una herramienta sencilla y visual, genial para nuestra clase de 1º.</li>
+<li>Podemos añadir audio a nuestro cuento, para aprender a entonar la lectura.</li>
+<li>Nos permite ser creativos e inventar un cuento según nuestros gustos. Además, ¡vosotros/as sois los/as artistas!</li>
+<li>Los compis de 5º y 6º ya la conocen y nos podrán ayudar en lo que necesitemos.</li>
+<li>Aprenderemos a utilizar las tablets del colegio, aunque estoy segura de que alguno/a ya sabe manejarlas.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777626198489-z7xanti8o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final consistirá en un libro digital sencillo, creado por todo el grupo. Para ello, utilizaremos la aplicación <strong><em>Bookcreator </em></strong>y <strong><em>Storybird</em></strong>, para lo que nos ayudarán nuestros compañeros y compañeras de 5º y 6º. Este cuento incluirá un <em>audiolibro </em>e <em>imágenes </em>que crearemos específicamente.</p>\n<p>Las razones que nos llevan a utilizar dichas herramientas son:</p>\n<ol>\n<li>Es una herramienta sencilla y visual, genial para nuestra clase de 1º.</li>\n<li>Podemos añadir audio a nuestro cuento, para aprender a entonar la lectura.</li>\n<li>Nos permite ser creativos e inventar un cuento según nuestros gustos. Además, ¡vosotros/as sois los/as artistas!</li>\n<li>Los compis de 5º y 6º ya la conocen y nos podrán ayudar en lo que necesitemos.</li>\n<li>Aprenderemos a utilizar las tablets del colegio, aunque estoy segura de que alguno/a ya sabe manejarlas.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Curación de contenidos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+      <odeBlockId>block-1777626853558-o4tp9dhji</odeBlockId>
+      <blockName>3. Curación de contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+          <odeBlockId>block-1777626853558-o4tp9dhji</odeBlockId>
+          <odeIdeviceId>idevice-1777626853555-b2qw4dg7o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la curación de contenido he utilizado dos herramientas: <em><strong>Padlet </strong></em>y <em><strong>Canva</strong></em>.</p>
+<p>-En el caso de <em><strong>Padlet</strong></em>, he recopilado algunas de las herramientas y enlaces que voy a utilizar para mi producto final. </p>
+<p>-En el caso de <em><strong>Canva</strong></em>, lo he usado para recopilar herramientas, web y aplicaciones que utilizo en mi práctica docente y que considero útiles y satisfactorias en el proceso de enseñanza y aprendizaje de mi alumnado.</p>
+<p>Os dejo aquí los dos enlaces a los recursos:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777626853555-b2qw4dg7o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la curación de contenido he utilizado dos herramientas: <em><strong>Padlet </strong></em>y <em><strong>Canva</strong></em>.</p>\n<p>-En el caso de <em><strong>Padlet</strong></em>, he recopilado algunas de las herramientas y enlaces que voy a utilizar para mi producto final. </p>\n<p>-En el caso de <em><strong>Canva</strong></em>, lo he usado para recopilar herramientas, web y aplicaciones que utilizo en mi práctica docente y que considero útiles y satisfactorias en el proceso de enseñanza y aprendizaje de mi alumnado.</p>\n<p>Os dejo aquí los dos enlaces a los recursos:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+      <odeBlockId>block-1777626933951-tk9gnnvqx</odeBlockId>
+      <blockName>Enlace de Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+          <odeBlockId>block-1777626933951-tk9gnnvqx</odeBlockId>
+          <odeIdeviceId>idevice-1777626933949-7l8ho76r9</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/martigenamc/un-cuento-mil-manos-escritura-cooperativa-l04585nswxatq759" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+      <odeBlockId>block-1777626962026-kcppt2qou</odeBlockId>
+      <blockName>Enlace de Canva</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777626814064-d8gv4ajpa</odePageId>
+          <odeBlockId>block-1777626962026-kcppt2qou</odeBlockId>
+          <odeIdeviceId>idevice-1777626962024-0rnyofd6l</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://canva.link/e100bv3resnu412" size="1" width="600" height="200" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777627063037-x0fl7z10u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Línea temporal de las tareas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Línea temporal de las tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777627063037-x0fl7z10u</odePageId>
+      <odeBlockId>block-1777627066368-fkl7an9us</odeBlockId>
+      <blockName>Línea temporal de las tareas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627063037-x0fl7z10u</odePageId>
+          <odeBlockId>block-1777627066368-fkl7an9us</odeBlockId>
+          <odeIdeviceId>idevice-1777627066366-hbhrdlrr7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, os dejo la línea temporal que presenta de forma organizada las actividades y tareas del proyecto:</p>
+<figure class="exe-figure position-center" style="width: 1112px;">
+<div class="figcaption header"><strong>Figura 3. Línea temporal del proyecto.</strong></div>
+<img src="{{context_path}}/content/resources/Sesión 1.png" title="Cronograma de las tareas" width="1112" height="626" alt="Cronograma de las tareas" />
+<figcaption class="figcaption"><span class="author">Nota. Elaboración propia</span>.</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777627066366-hbhrdlrr7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, os dejo la línea temporal que presenta de forma organizada las actividades y tareas del proyecto:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1112px;\">\n<div class=\"figcaption header\"><strong>Figura 3. Línea temporal del proyecto.</strong></div>\n<img src=\"{{context_path}}/content/resources/Sesión 1.png\" title=\"Cronograma de las tareas\" width=\"1112\" height=\"626\" alt=\"Cronograma de las tareas\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Nota. Elaboración propia</span>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777627554939-dzcwk8mx2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777627554939-dzcwk8mx2</odePageId>
+      <odeBlockId>block-1777627577173-miydwf8p8</odeBlockId>
+      <blockName>5. Evaluación de la actividad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627554939-dzcwk8mx2</odePageId>
+          <odeBlockId>block-1777627577173-miydwf8p8</odeBlockId>
+          <odeIdeviceId>idevice-1777627577172-4ip8o4rdb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de esta propuesta será de tipo cualitativa, pues me fijaré en la evolución que tenéis cada uno/a de vosotros/as y cómo realizáis cada actividad. En los siguientes apartados especificaré un poco más los criterios e instrumentos que utilizaré, para que podáis considerarlos a la par que trabajáis. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777627577172-4ip8o4rdb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de esta propuesta será de tipo cualitativa, pues me fijaré en la evolución que tenéis cada uno/a de vosotros/as y cómo realizáis cada actividad. En los siguientes apartados especificaré un poco más los criterios e instrumentos que utilizaré, para que podáis considerarlos a la par que trabajáis. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777627216897-mo8sybatz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5.1. Criterios</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.1. Criterios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.1. Criterios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777627216897-mo8sybatz</odePageId>
+      <odeBlockId>block-1777627219798-6hod25oop</odeBlockId>
+      <blockName>5. Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627216897-mo8sybatz</odePageId>
+          <odeBlockId>block-1777627219798-6hod25oop</odeBlockId>
+          <odeIdeviceId>idevice-1777627219796-3f9jtvz5d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí disponéis de los criterios de evaluación asociados a las actividades, es decir, qué se va a evaluar en cada unas de las fases del proyecto:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777627219796-3f9jtvz5d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí disponéis de los criterios de evaluación asociados a las actividades, es decir, qué se va a evaluar en cada unas de las fases del proyecto:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777627216897-mo8sybatz</odePageId>
+      <odeBlockId>block-1777627437406-v4h6koonp</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627216897-mo8sybatz</odePageId>
+          <odeBlockId>block-1777627437406-v4h6koonp</odeBlockId>
+          <odeIdeviceId>idevice-1777627437405-rj0ym0t8e</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1HBZEWuTgqLfTvuPmc4i8bbMGqRPLtmewg5atZIfj834/edit?tab=t.0#heading=h.v3kpl8zcktok" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777627517985-1usyreip7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5.2. Instrumentos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.2. Instrumentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.2. Instrumentos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777627517985-1usyreip7</odePageId>
+      <odeBlockId>block-1777627738243-fkgm2z5d5</odeBlockId>
+      <blockName>5.2. Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627517985-1usyreip7</odePageId>
+          <odeBlockId>block-1777627738243-fkgm2z5d5</odeBlockId>
+          <odeIdeviceId>idevice-1777627738241-2ina94nxt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la realización de mi producto final voy a utilizar diferentes técnicas de evaluación para valorar las tareas llevadas a cabo.<br />Para evaluar la comprensión del audio-cuento (Sesión 1) y video-cuento (Sesión 4), voy a utilizar el Google Formulario, que ofrece retroalimentación de los ejercicios al instante. Así podré saber el grado de comprensión de los cuentos en mi alumnado (evaluación continua).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777627738241-2ina94nxt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la realización de mi producto final voy a utilizar diferentes técnicas de evaluación para valorar las tareas llevadas a cabo.<br />Para evaluar la comprensión del audio-cuento (Sesión 1) y video-cuento (Sesión 4), voy a utilizar el Google Formulario, que ofrece retroalimentación de los ejercicios al instante. Así podré saber el grado de comprensión de los cuentos en mi alumnado (evaluación continua).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777627517985-1usyreip7</odePageId>
+      <odeBlockId>block-1777627817340-3qphiaurn</odeBlockId>
+      <blockName>Formulario de la Sesión 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627517985-1usyreip7</odePageId>
+          <odeBlockId>block-1777627817340-3qphiaurn</odeBlockId>
+          <odeIdeviceId>idevice-1777627817338-x3tk3omwx</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdMg0dJm8Dwhv-UXt1cZCcUumOoRgr4JIJR_vQ_rgptPrdP7w/viewform" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777627517985-1usyreip7</odePageId>
+      <odeBlockId>block-1777627855215-ezpvhrtj5</odeBlockId>
+      <blockName>Formulario de la Sesión 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627517985-1usyreip7</odePageId>
+          <odeBlockId>block-1777627855215-ezpvhrtj5</odeBlockId>
+          <odeIdeviceId>idevice-1777627855214-y9ss69o3y</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfXWkDPAXwF6YdPIYBKMlE2WLs_rGyfjdTjCEah6lpuAgFGkA/viewform" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777627517985-1usyreip7</odePageId>
+      <odeBlockId>block-1777627881947-8cc1wqyp9</odeBlockId>
+      <blockName>Kahoot final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627517985-1usyreip7</odePageId>
+          <odeBlockId>block-1777627881947-8cc1wqyp9</odeBlockId>
+          <odeIdeviceId>idevice-1777627881946-emq1ed59o</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://kahoot.it/solo?quizId=a0db287d-dda1-494d-97ec-dad7a3e05bf8" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777627930448-ipgr8kx0r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos finales</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos finales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777627930448-ipgr8kx0r</odePageId>
+      <odeBlockId>block-1777628854338-5etei6hds</odeBlockId>
+      <blockName>Nodo final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777627930448-ipgr8kx0r</odePageId>
+          <odeBlockId>block-1777628854338-5etei6hds</odeBlockId>
+          <odeIdeviceId>idevice-1777628854337-b1oto46n0</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" style="width: 96.8458%; height: 169.547px;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr style="height: 36.9844px;">
+<th style="width: 24.6631%; height: 36.9844px;">Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Un cuento, mil manos: escritura cooperativa</span></td>
+</tr>
+<tr style="height: 36.9844px;">
+<th style="width: 24.6631%; height: 36.9844px;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr style="height: 36.9844px;">
+<th style="width: 24.6631%; height: 36.9844px;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marta Marín Corbera</span></td>
+</tr>
+<tr style="height: 58.5938px;">
+<th style="width: 24.6631%; height: 58.5938px;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
